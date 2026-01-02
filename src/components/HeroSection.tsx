@@ -7,8 +7,8 @@ import profileAvatar from '@/assets/profile-avatar.png';
 const roles = ['Flutter Developer', 'React Developer', 'UI/UX Enthusiast'];
 
 const stats = [
-  { value: '1.5+', label: 'Years Experience' },
-  { value: '4+', label: 'Projects Completed' },
+  { value: '2+', label: 'Years Experience' },
+  { value: '10+', label: 'Projects Completed' },
   { value: '5+', label: 'Happy Clients' },
 ];
 
